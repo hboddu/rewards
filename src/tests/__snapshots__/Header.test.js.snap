@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component Table Heading Snapshot 1`] = `
+<div
+  className="MuiBox-root css-0"
+>
+  <h1
+    className="MuiTypography-root MuiTypography-h1 css-18wfj3a-MuiTypography-root-Header-headline"
+    data-testid="header_text"
+  >
+    Quarterly Rewards Statement
+  </h1>
+</div>
+`;

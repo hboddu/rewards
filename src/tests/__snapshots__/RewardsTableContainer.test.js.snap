@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TableContainer Component Table Container Snapshot 1`] = `
+<div
+  className="MuiContainer-root MuiContainer-maxWidthXl css-19r6kue-MuiContainer-root"
+>
+  <div
+    className="MuiGrid-root MuiGrid-container css-vlfcgw-MuiGrid-root-RewardsTableContainer-grid"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-12 MuiGrid-grid-lg-8 css-1hjr3y7-MuiGrid-root"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiTableContainer-root css-a4h9to-MuiPaper-root-MuiTableContainer-root-RewardsTableContainer-tableContainer"
+      >
+        <table
+          aria-label="a dense table"
+          className="MuiTable-root css-rqglhn-MuiTable-root"
+          role={null}
+        >
+          <thead
+            className="MuiTableHead-root css-1ws0f6i-MuiTableHead-root-RewardsTable-tableHead"
+            role={null}
+          >
+            <tr
+              className="MuiTableRow-root MuiTableRow-head css-1q1u3t4-MuiTableRow-root"
+              role={null}
+            >
+              <th
+                aria-sort={null}
+                className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1ndpvdd-MuiTableCell-root"
+                colSpan={2}
+                data-testid="customers"
+                scope="col"
+              >
+                Customers
+              </th>
+              <th
+                aria-sort={null}
+                className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1ndpvdd-MuiTableCell-root"
+                colSpan={4}
+                data-testid="reward"
+                scope="col"
+              >
+                Reward Points
+              </th>
+            </tr>
+            <tr
+              className="MuiTableRow-root MuiTableRow-head css-1q1u3t4-MuiTableRow-root"
+              role={null}
+            >
+              <th
+                aria-sort={null}
+                className="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-19lwqm2-MuiTableCell-root"
+                data-testid="id"
+                scope="col"
+              >
+                ID
+              </th>
+              <th
+                aria-sort={null}
+                className="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+                data-testid="name"
+                scope="col"
+              >
+                Name
+              </th>
+              <th
+                aria-sort={null}
+                className="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+                data-testid="month1"
+                scope="col"
+              >
+                Month1
+              </th>
+              <th
+                aria-sort={null}
+                className="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+                data-testid="month2"
+                scope="col"
+              >
+                Month2
+              </th>
+              <th
+                aria-sort={null}
+                className="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+                data-testid="month3"
+                scope="col"
+              >
+                Month3
+              </th>
+              <th
+                aria-sort={null}
+                className="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+                data-testid="total"
+                scope="col"
+              >
+                Total Points
+              </th>
+            </tr>
+          </thead>
+          <tbody
+            className="MuiTableBody-root css-1ge5af5-MuiTableBody-root-RewardsTable-tableBody"
+            role={null}
+          />
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+`;
